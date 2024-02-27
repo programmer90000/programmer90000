@@ -14,3 +14,7 @@ Skills: REACT / JavaScript / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer90000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmer90000&show_icons=true&count_private=true)  
+
+![Skills Bootcamp In Front-End Web Development Certificate](certificate-for-skills-bootcamp-in-front-end-web-development.jpg)
+
+![The Complete JavaScript Course 2024 From Zero To Expert Certificate](the-complete-JavaScript-course-2024-from-zero-to-expert.jpg)
