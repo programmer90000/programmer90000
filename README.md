@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdul Rehman
 #### Create stunning websites
-![Create stunning websites](https://media.licdn.com/dms/image/D4E16AQGziNiHgPwpCw/profile-displaybackgroundimage-shrink_350_1400/0/1705314374710?e=1710979200&v=beta&t=ki0Y74j0tcWFwtyDmU_AXlHQuHb-AV1M_Cm4izLQDFc)
+![Create stunning websites](banner-image)
 
 I'm Abdul Rehman. I am currently enrolled in the edX boot camp for Front-End developers. I am currently learning React. I am passionate about coding and enjoy learning new features and concepts to apply into my code.
 
